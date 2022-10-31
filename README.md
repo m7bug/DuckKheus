@@ -17,9 +17,9 @@ Olá, tudo bem?<br>Seja Bem-vindo ao meu repositório de projetos. Sinta-se supe
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=offtheus21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=offtheus21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=offtheus21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=DuckKheus&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DuckKheus&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DuckKheus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
